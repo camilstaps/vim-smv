@@ -1,5 +1,5 @@
-" Torxakis syntax file
-" Language:   Torxakis
+" SMV syntax file
+" Language:   NuSMV
 " Maintainer: Camil Staps <info@camilstaps.nl>
 " License:    This file is placed in the public domain.
 
